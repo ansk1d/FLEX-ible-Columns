@@ -1,0 +1,33 @@
+.row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+
+}
+
+.col{
+    background-color: rgb(119, 157, 157);
+    padding: 10px;
+    margin: 10px;
+flex: 1;
+
+}
+
+.col-2{
+    background-color: rgb(119, 157, 157);
+    padding: 10px;
+    margin: 10px;
+
+flex: 2;
+
+}
+
+.col-3{
+    background-color: rgb(119, 157, 157);
+    padding: 10px;
+    margin: 10px;
+
+flex: 3;
+
+}
